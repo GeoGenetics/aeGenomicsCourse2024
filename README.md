@@ -6,6 +6,8 @@ Our goal is to give you the skills to study complex mixtures of DNA from the pas
 
 # Practical information and updates
 
+Tutorials (currently version 2023, will be updated) can be found in the repo's [wiki](https://github.com/GeoGenetics/aeGenomicsCourse2024/wiki)
+
 ## Course-responsible contact details
 
 

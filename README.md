@@ -58,6 +58,9 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 # Social events
 
 Sunday September 22nd, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark. 
+Wednesday September 25th, 17- , We go for a drink, it's the last day for Benjamin and Pete, so we send them on with a cheer. (If the weather is nice, we could do an evening-walk of Copenhagen, Mikkel will happily tell "tall tales" along the way, and we can grab beers/soft-drinks on-the-go.
+Friday September 27th, 17- , Concluding day, there will be Friday soft-drinks/beers at the end of the day.
+
 
 
 # Curriculum 

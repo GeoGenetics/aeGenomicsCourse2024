@@ -10,7 +10,6 @@ Tutorials (currently version 2023, will be updated) can be found in the repo's [
 
 ## Course-responsible contact details
 
-
 Mikkel Winther Pedersen,
 mail: mwpedersen@sund.ku.dk, 
 phone/whatsapp: +45 2927 5342
@@ -21,7 +20,8 @@ mail: martin.sikora@sund.ku.dk
 Antonio Fernandez Guerra,
 mail: antonio.fernandez-guerra@sund.ku.dk
 
-
+Thorfinn Korneliussen
+mail: tskorneliussen@sund.ku.dk
 
 ## Where and When
 **Sunday, September 22nd**

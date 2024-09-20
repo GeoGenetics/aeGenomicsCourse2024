@@ -8,7 +8,7 @@ Remember to read the introduction to GitHub [here](https://github.com/GeoGenetic
 
 [BAM filter](https://github.com/genomewalker/bam-filter)
 
-[metaMDG-cpp](https://github.com/metaDMG-dev/metaDMG-cpp)
+[metaDMG-cpp](https://github.com/metaDMG-dev/metaDMG-cpp)
 
 [quicksand](https://github.com/mpieva/quicksand)
 
